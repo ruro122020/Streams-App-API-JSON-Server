@@ -1,1 +1,1 @@
-API Server for the Stream Application
+API Server for the Streams Application
