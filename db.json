@@ -4,6 +4,17 @@
       "title": "my stream",
       "description": "this is a great stream",
       "id": 1
+    },
+    {
+      "title": "Other Stream",
+      "description": "Here's some stream",
+      "id": 2
+    },
+    {
+      "title": "I created this stream",
+      "description": "This change was made by a PATCH request",
+      "userId": "112572609810755632367",
+      "id": 3
     }
   ]
 }
